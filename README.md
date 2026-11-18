@@ -210,8 +210,12 @@ This includes travel and docking panels and other journal-based views, allowing 
 
 - **Official website:** [edcc.lol](https://edcc.lol/)
 - **GitHub releases:** [Download EDCC](https://github.com/Mubloxi/EDCC/releases)
-- **Release:** [EDCC 0.2.0-beta.1](https://github.com/Mubloxi/EDCC/releases/tag/v0.2.0-beta.1)
-- **VirusTotal report for the published installer:** [View scan](https://www.virustotal.com/gui/file/24c440a4e779837b42041f7bffdd475b56a71fc42e72199eb1edfef119c999d8?nocache=1)
+- **Latest release:** [EDCC 1.0.0](https://github.com/Mubloxi/EDCC/releases/tag/v1.0.0)
+- **Standalone Windows executable (x64):** [EDCC_1.0.0.exe](https://github.com/Mubloxi/EDCC/releases/download/v1.0.0/EDCC_1.0.0.exe)
+- **Windows MSI installer (x64):** [EDCC_1.0.0_x64_en-US.msi](https://github.com/Mubloxi/EDCC/releases/download/v1.0.0/EDCC_1.0.0_x64_en-US.msi)
+- **SHA-256 (EXE):** `80eb32542b66a68454d99b22e2685abc713497239856cd7a17dc4744f01417db`
+- **SHA-256 (MSI):** `ec8fbd32352d6059ebba7255687aa93cc7fd78f9a0bd7a04e03a9ec02e646f16`
+- **VirusTotal:** [Earlier installer report](https://www.virustotal.com/gui/file/24c440a4e779837b42041f7bffdd475b56a71fc42e72199eb1edfef119c999d8?nocache=1). This report is specific to that earlier file and does not cover EDCC 1.0.0.
 
 ## Development and Future Plans
 
@@ -233,4 +237,4 @@ Thanks for checking it out. Fly safe, Commanders!
 
 ---
 
-*This repository distributes EDCC release binaries. The application source code is maintained separately in a other private repository
+*This repository distributes EDCC release binaries and documentation only. The application source code is maintained in a separate repository.
