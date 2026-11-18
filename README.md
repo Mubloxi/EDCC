@@ -211,7 +211,7 @@ This includes travel and docking panels and other journal-based views, allowing 
 - **Official website:** [edcc.lol](https://edcc.lol/)
 - **GitHub releases:** [Download EDCC](https://github.com/Mubloxi/EDCC/releases)
 - **Latest release:** [EDCC 1.0.0](https://github.com/Mubloxi/EDCC/releases/tag/v1.0.0)
-- **Standalone Windows executable (x64):** [EDCC_1.0.0.exe](https://github.com/Mubloxi/EDCC/releases/download/v1.0.0/EDCC_1.0.0.exe)
+- **Standalone Windows executable (x64):** [EDCC.exe](https://github.com/Mubloxi/EDCC/releases/download/v1.0.0/EDCC.exe)
 - **Windows MSI installer (x64):** [EDCC_1.0.0_x64_en-US.msi](https://github.com/Mubloxi/EDCC/releases/download/v1.0.0/EDCC_1.0.0_x64_en-US.msi)
 - **SHA-256 (EXE):** `80eb32542b66a68454d99b22e2685abc713497239856cd7a17dc4744f01417db`
 - **SHA-256 (MSI):** `ec8fbd32352d6059ebba7255687aa93cc7fd78f9a0bd7a04e03a9ec02e646f16`
